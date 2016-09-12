@@ -1,0 +1,67 @@
+﻿[
+    {
+        "name": "Middle C",
+        "freq": 261,
+        "duration": 3200
+    },
+    {
+        "name": "C #",
+        "freq": 277,
+        "duration": 3200
+    },
+    {
+        "name": "D",
+        "freq": 293,
+        "duration": 3200
+    },
+    {
+        "name": "D #",
+        "freq": 311,
+        "duration": 3200
+    },
+    {
+        "name": "E",
+        "freq": 329,
+        "duration": 3200
+    },
+    {
+        "name": "F",
+        "freq": 349,
+        "duration": 3200
+    },
+    {
+        "name": "F #",
+        "freq": 370,
+        "duration": 3200
+    },
+    {
+        "name": "G",
+        "freq": 392,
+        "duration": 3200
+    },
+    {
+        "name": "G #",
+        "freq": 415,
+        "duration": 3200
+    },
+    {
+        "name": "A",
+        "freq": 440,
+        "duration": 3200
+    },
+    {
+        "name": "A #",
+        "freq": 466,
+        "duration": 3200
+    },
+    {
+        "name": "B ",
+        "freq": 494,
+        "duration": 3200
+    },
+    {
+        "name": "Treble C",
+        "freq": 523,
+        "duration": 3200
+    }
+]
